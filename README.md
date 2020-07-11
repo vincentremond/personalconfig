@@ -1,0 +1,2 @@
+# personalconfig
+My personnal editor
