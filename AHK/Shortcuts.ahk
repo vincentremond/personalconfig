@@ -1,4 +1,5 @@
 ﻿#SingleInstance, force
+
 ; Hotstring to enter time stamp in document
 ::ttt::
 FormatTime, Time, , yyyy-MM-dd--HH-mm-ss
@@ -11,5 +12,9 @@ Return
 ::!happy::(ﾟヮﾟ)
 ::!flip::(╯°□°)╯︵ ┻━┻
 ::!dot::•
+::!meh::🤷
+::!think::🤔
+::!eye::🤨
 
 ::!vrm::vincent.remond@gmail.com
+
