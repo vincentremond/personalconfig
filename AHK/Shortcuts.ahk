@@ -15,6 +15,7 @@ Return
 ::!meh::🤷
 ::!think::🤔
 ::!eye::🤨
+::!roll::🙄
 
 ::!vrm::vincent.remond@gmail.com
 
